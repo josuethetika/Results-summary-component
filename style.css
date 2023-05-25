@@ -110,6 +110,11 @@ body{
     display: flex;
     gap: 12px;
 }
+.group P{opacity: 0.7;}
+.group,.numb {
+    font-weight: bold;
+    d
+}
 .little-card[data-item-type="card1"]{
     background:hsla(0, 100%, 67%, 0.082);
 }
