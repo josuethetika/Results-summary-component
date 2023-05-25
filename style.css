@@ -108,7 +108,7 @@ body{
 }
 .group{
     display: flex;
-    gap: 2px;
+    gap: 12px;
 }
 .little-card[data-item-type="card1"]{
     background:hsla(0, 100%, 67%, 0.082);
