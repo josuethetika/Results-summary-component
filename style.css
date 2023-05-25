@@ -130,7 +130,17 @@ body{
         width: 335px; ;
     }
     .result{
-        margin-top:80px ;
+        margin:0 ;
+        gap: 0;
+    }
+    .score{
+        margin-top: 100px;
+    }
+    .title{
+        margin-top: 70px;
+    }
+    .score{
+        width:7rem;
     }
     
 }
